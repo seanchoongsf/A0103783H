@@ -1,6 +1,5 @@
 # A0103783H_A0103729H
-EE5111_IoT project on Amazon AWS_A0103783H &amp; A0103729H .pdf
-print ('
+
 Objectives & Instructions:
 Continuous Assessment:
 Implement a simple IoT pipeline with AWS Cloud platform and visualise the data. We will simulate two small IoT setups that record and push data from two jet engines. Students need to write a guideline on how they set up the pipeline (which the pictures with their Matric No. inside)  
@@ -60,4 +59,3 @@ Deadline: 21 Sept 2019, 11:59:59 PM.
 2. Post a copy of your report to Medium post. Upload your code to Github.
 
 3. Reports are to be sent to elenht@nus.edu.sg. Inside the report, indicate links to your Medium post and Github folder.
-')
